@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Tener creada una api con los siguientes endpoints o recursos\r Para la tabla movies\r Obtener todos los registros\r Obtener un registro\r Crear un nuevo registro\r Para cualquiera de las tablas (actors, series, genres, episodes)\r Obtener todos los registros\r Obtener un registro\r Crear un nuevo registro\r Tienen tiempo hasta el día viernes 28/08 hasta las 00 hs, la entrega es a traves de un repo en github con su cuenta.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricio1901/API_movies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricio1901/API_movies/issues"
+  },
+  "homepage": "https://github.com/patricio1901/API_movies#readme"
+}

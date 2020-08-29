@@ -1,10 +1,10 @@
-Tener creada una api con los siguientes endpoints o recursos
-Para la tabla movies
-Obtener todos los registros
-Obtener un registro
-Crear un nuevo registro
-Para cualquiera de las tablas (actors, series, genres, episodes)
-Obtener todos los registros
-Obtener un registro
-Crear un nuevo registro
-Tienen tiempo hasta el día viernes 28/08 hasta las 00 hs, la entrega es a traves de un repo en github con su cuenta.
+Tener creada una api con los siguientes endpoints o recursos:
+Para la tabla movies:
+*Obtener todos los registros --> http://localhost:3000/movies
+*Obtener un registro --> http://localhost:3000/movies/id
+*Crear un nuevo registro --> http://localhost:3000/movies/create
+
+Para la tabla series:
+*Obtener todos los registros --> http://localhost:3000/series
+*Obtener un registro --> http://localhost:3000/series/id
+*Crear un nuevo registro --> http://localhost:3000/series/create
